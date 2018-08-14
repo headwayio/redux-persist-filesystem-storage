@@ -14,7 +14,7 @@ yarn add redux-persist-filesystem-storage
 
 Then, as [react-native-fetch-blob](https://github.com/wkh237/react-native-fetch-blob) is a dependency of this project, we need to ensure its linked with
 ```
-react-native link react-native-fetch-blob
+react-native link rn-fetch-blob
 ```
 (or check [their docs](https://github.com/wkh237/react-native-fetch-blob#user-content-installation)).
 
